@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="kJp8?FRr=,e4WO1:bjUr">文字列の配列</variable></variables><block type="pxt-on-start" id="C]K%RS|vn)QbE]?9mb=b" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="9$xEi,*_Je]A1DBd*3O."><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block></xml>
